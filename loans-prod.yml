@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Hey, welcome to EazyBank loans related docker APIs "
+  message: "Hey, welcome to EazyBank loans related prod APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Master"
     email: "pelias@eazybank.com"
